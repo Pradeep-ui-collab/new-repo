@@ -1,2 +1,2 @@
-# new-repo
-Test repository
+# Updated README
+This is an updated readme file.
